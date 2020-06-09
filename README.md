@@ -6,3 +6,6 @@ The kernal selection can be configured with jumpers, a switch or even with a mic
 <img src="https://github.com/svenpetersen1965/C64-Kernal-Adaptor-Switch-short-board-/blob/master/Rev.%200/pictures/0503_-_KernalSw_16k_above.JPG" width="300" alt="C64 kernal adapter/switch for ASSY250469">
 
 This development was inspired by Adrian Black's youtube video <a href="https://youtu.be/GPq5xnJRw2w">How-To: C64 Arduino based Restore Key/Four Kernal Switcher/Hard Reset</a>
+
+# BOM Calculation
+The component prices of BOM v0.0 were summed up. The total is  4.88€, which does not include any shipping fees.
