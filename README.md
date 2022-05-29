@@ -4,6 +4,7 @@
 *An Adapter For **[ASSY250469]**, The 'Short Board'.*
 
 <br>
+<br>
 
 <img
     src = 'Revisions/2/pictures/0503_-_KernalSw_16k_above.JPG'
@@ -11,7 +12,6 @@
     align = right
     width = 480
 />
-
 Since the **BASIC** is stored in the same **ROM**, <br>
 some circuit is required that allows for stable <br>
 access to **BASIC**, while the Kernel is selected.
