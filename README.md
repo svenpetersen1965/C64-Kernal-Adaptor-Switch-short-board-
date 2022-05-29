@@ -5,24 +5,30 @@
 
 <br>
 
-Since the BASIC is stored in the same ROM, some circuit is required to allow a stable access to BASIC, while the Kernal can be selected.
-
-The kernal selection can be configured with jumpers, a switch or even with a micro controller.
-
-+5V are provided on the pin header for this purpose.
-
-<div align = center>
-
 <img
     src = 'Revisions/2/pictures/0503_-_KernalSw_16k_above.JPG'
     alt = 'C64 Kernel Adapter / Switch For ASSY250469'
-    width = 500
+    align = right
+    width = 480
 />
 
-</div>
+Since the **BASIC** is stored in the same **ROM**, <br>
+some circuit is required that allows for stable <br>
+access to **BASIC**, while the Kernel is selected.
 
+The kernel selection can be configured with <br>
+either some jumpers, a switch or even using <br>
+a micro controller.
 
-This development was inspired by Adrian Black's youtube video <a href="https://youtu.be/GPq5xnJRw2w">How-To: C64 Arduino based Restore Key/Four Kernal Switcher/Hard Reset</a>
+For this purpose, `+5V` are provided on the pin header.
+
+<br>
+<br>
+
+## Inspiration
+
+This development was inspired by **Adrian Black's** YouTube video: <br>
+    *[How - To: C64 Arduino based Restore Key / Four Kernal Switcher / Hard Reset][Video]*
 
 <br>
 <br>
@@ -38,10 +44,14 @@ for stereo **SID** applications.
 
 <!----------------------------------------------------------------------------->
 
-[Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
-[Badge Price]: https://img.shields.io/badge/Estimated_Price-4.88€-37a779?style=for-the-badge
-
 [ASSY250469]: https://support.retrorewind.ca/commodore/c64/assy-250469
+[Video]: https://youtu.be/GPq5xnJRw2w
 
 [License]: #
 [Price]: Revisions/0/Excel '1. Calculation From BOM Of Rev. 0&#10;2. Component Prices May Have Changed&#10;3. Shipping fees not included'
+
+
+<!---------------------------------{ Badges }---------------------------------->
+
+[Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
+[Badge Price]: https://img.shields.io/badge/Estimated_Price-4.88€-37a779?style=for-the-badge
