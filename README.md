@@ -20,7 +20,8 @@ The kernel selection can be configured with <br>
 either some jumpers, a switch or even using <br>
 a micro controller.
 
-For this purpose, `+5V` are provided on the pin header.
+*For this purpose, `+5V` are* <br>
+*provided on the pin header.*
 
 <br>
 <br>
