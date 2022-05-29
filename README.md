@@ -1,5 +1,5 @@
 
-# C64 Kernel Switch    [![Badge Price]][Price]
+# C64 Kernel Switch    [![Badge License]][License]    [![Badge Price]][Price]
 
 *An Adapter For **[ASSY250469]**, The 'Short Board'.*
 
@@ -37,8 +37,10 @@ The component prices of BOM v0.0 were summed up. The total is  4.88€, which do
 
 <!----------------------------------------------------------------------------->
 
+[Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
 [Badge Price]: https://img.shields.io/badge/Estimated_Price-4.88€-37a779?style=for-the-badge
 
 [ASSY250469]: https://support.retrorewind.ca/commodore/c64/assy-250469
 
+[License]: #
 [Price]: Revisions/0/Excel '1. Calculation From BOM Of Rev. 0&#10;2. Component Prices May Have Changed&#10;3. Shipping fees not included'
