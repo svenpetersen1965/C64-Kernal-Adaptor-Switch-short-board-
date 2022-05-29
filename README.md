@@ -24,13 +24,14 @@ The kernal selection can be configured with jumpers, a switch or even with a mic
 
 This development was inspired by Adrian Black's youtube video <a href="https://youtu.be/GPq5xnJRw2w">How-To: C64 Arduino based Restore Key/Four Kernal Switcher/Hard Reset</a>
 
-# Rev. 2
+<br>
+<br>
 
-Rev. 2 provides an optional pin heaer  with the address bit A5 and A8 for stereo SID applications
+# Revision 2
 
-# BOM Calculation
-
-The component prices of BOM v0.0 were summed up. The total is  4.88€, which does not include any shipping fees.
+This revision provides an optional pin <br>
+header with the address bit `A5` + `A8` <br>
+for stereo **SID** applications.
 
 <br>
 
